@@ -5,7 +5,7 @@ import Cup from "../../assets/page 2/icon1.png";
 import iceCream from "../../assets/page 2/icon2.png";
 import drinks from "../../assets/page 2/icon3.png";
 import cake from "../../assets/page 2/icon4.png";
-import title from "../../assets/title.png";
+import title from "../../assets/page 2/title.png";
 
 const menuCategories = [
     {
