@@ -1,12 +1,12 @@
 import React from 'react'
 // Components
-import LandingPage from '../home components/LandingPage'
-import Page2 from '../home components/Page2'
-import Page3 from '../home components/Page3'
-import Page4 from '../home components/Page4'
-import Page5 from '../home components/Page5'
-import Page6 from '../home components/Page6'
-import Page7 from '../home components/Page7'
+import LandingPage from '../homeComponents/LandingPage'
+import Page2 from '../homeComponents/Page2'
+import Page3 from '../homeComponents/Page3'
+import Page4 from '../homeComponents/Page4'
+import Page5 from '../homeComponents/Page5'
+import Page6 from '../homeComponents/Page6'
+import Page7 from '../homeComponents/Page7'
 
 const Home = () => {
   return (
