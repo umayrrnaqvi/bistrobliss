@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import call from '../assets/call.png';
 import mail from '../assets/mail.png';
-import social from '../assets/social.png';
+import social from '../../src/assets/Social.png';
 import logo from '../assets/logo.png';
 import cuisine from '../assets/cuisine.png';
 import { FiMenu, FiX } from 'react-icons/fi';
