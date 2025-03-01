@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 // Articles
-import title from "../../assets/pags/title.png";
+import title from "../../assets/pags/Title.png";
 import article1 from "../../assets/pags/1.png";
 import article2 from "../../assets/pags/2.png";
 import article3 from "../../assets/pags/3.png";
