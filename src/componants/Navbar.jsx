@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
-import call from '../assets/call.png';
-import mail from '../assets/mail.png';
-import social from '../../src/assets/Social.png';
-import logo from '../assets/logo.png';
-import cuisine from '../assets/cuisine.png';
+import call from '../../src/assets/navbar/call.png';
+import mail from '../../src/assets/navbar/mail.png';
+import social from '../../src/assets/navbar/Social.png';
+import logo from '../../src/assets/navbar/logo.png';
+import cuisine from '../../src/assets/navbar/Cuisine.png';
 import { FiMenu, FiX } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
 
